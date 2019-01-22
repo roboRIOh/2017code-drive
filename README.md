@@ -1,1 +1,2 @@
-# FIRST ROBOTICS 2017 (SteamWorks) Team 3328 - NohoRobo Code
+# 2017 Code
+This is the repository of the Code for the 2017 Season Robot for FIRST Robotics Team 3328. 
